@@ -1,0 +1,5 @@
+com\naman\learning\resource\StudentResource.class
+com\naman\learning\config\ApplicationConfig.class
+com\naman\learning\dao\StudentDAO.class
+com\naman\learning\model\Student.class
+com\naman\learning\util\DBConnection.class
